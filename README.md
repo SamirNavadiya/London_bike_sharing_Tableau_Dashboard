@@ -25,8 +25,8 @@ Before visualizing the data, the following steps were performed using Python:
 - **Matplotlib & Seaborn**: For exploratory visualizations.
 - **Tableau**: For building the interactive dashboard.
 
-## How to View the Dashboard
-You can access the live dashboard on **[Tableau Public]([https://public.tableau.com/views/LondonBikeRides_17395811848110/Dashboard](https://public.tableau.com/app/profile/samir.navadiya/viz/LondonBikeRides_17395811848110/Dashboard))**.
+## Dashboard Preview
+*([https://public.tableau.com/app/profile/samir.navadiya/viz/British_Airways_Reviews_dashboard/Dashboard1](https://public.tableau.com/app/profile/samir.navadiya/viz/LondonBikeRides_17395811848110/Dashboard))*
 
 ## Author
 **Samir Navadiya**
