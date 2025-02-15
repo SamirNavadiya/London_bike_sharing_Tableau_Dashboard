@@ -26,7 +26,7 @@ Before visualizing the data, the following steps were performed using Python:
 - **Tableau**: For building the interactive dashboard.
 
 ## Dashboard Preview
-*([https://public.tableau.com/app/profile/samir.navadiya/viz/British_Airways_Reviews_dashboard/Dashboard1](https://public.tableau.com/app/profile/samir.navadiya/viz/LondonBikeRides_17395811848110/Dashboard))*
+*([[https://public.tableau.com/app/profile/samir.navadiya/viz/British_Airways_Reviews_dashboard/Dashboard1](https://public.tableau.com/app/profile/samir.navadiya/viz/LondonBikeRides_17395811848110/Dashboard)]())*
 
 ## Author
 **Samir Navadiya**
