@@ -1,4 +1,4 @@
-# London Bike Rides - Tableau Dashboard
+# London Bike Sharing - Tableau Dashboard
 
 ## Overview
 This Tableau dashboard provides an interactive visualization of **London Bike Rides**, offering insights into various factors affecting bike usage in the city. The dataset was collected, processed, and analyzed using Python before being visualized in Tableau.
