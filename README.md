@@ -1,4 +1,3 @@
-# London_bike_sharing_dataset_visualization
 # London Bike Rides - Tableau Dashboard
 
 ## Overview
